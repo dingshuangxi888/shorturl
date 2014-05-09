@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: biz.bbtec.ncws:ncws:bbtec:1.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/bbtec/ncws/ncws/1.8/ncws-1.8-bbtec.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/bbtec/ncws/ncws/1.8/ncws-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/bbtec/ncws/ncws/1.8/ncws-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
