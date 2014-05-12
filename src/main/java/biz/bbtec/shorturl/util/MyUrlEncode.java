@@ -40,7 +40,7 @@ public class MyUrlEncode {
     }
 
     private static String encode(String value) throws UnsupportedEncodingException {
-        return URLEncoder.encode(value, "UTF-8").replaceAll("\\+", "%20").replaceAll("%3A", ":").replaceAll("%2C", ",");
+        return URLEncoder.encode(value, "UTF-8").replaceAll("\\+", "%20").replaceAll("%3A", ":").replaceAll("%2C", ",").replaceAll("%3B", ";");
     }
 
     public static void main(String[] args) {
